@@ -1,4 +1,4 @@
-# Analisando acidentes de trânsito no Brasil
+# Analisando empresas da cidade do Recife
 
 A análise dos dados das empresas ativas pode revelar informações sobre o atual cenário econômico da cidade, os setores que estão prosperando e as áreas onde essas empresas estão concentradas. Por outro lado, a análise das empresas inativas pode lançar luz sobre os desafios enfrentados pelas empresas e os setores que podem estar em declínio.
 
