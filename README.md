@@ -47,4 +47,4 @@ Vale ressaltar que as informações sensíveis estão devidamente anonimizadas n
 * `longitude` - coordenada da longitude da empresa
 
 ## TODO ##
-Jupyter notebook
+Dashboard
